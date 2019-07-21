@@ -1,0 +1,4 @@
+#Sun Jul 21 15:16:07 GMT+04:00 2019
+base.0=E\:\\Work\\Med\\Project\\Medic\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

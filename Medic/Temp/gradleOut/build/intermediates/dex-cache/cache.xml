@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Work\Med\Project\Medic\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.1"
+        sha1="d3fe2ce37696d8674efcc4dd3c1d91da838f514b">
+        <dex dex="E:\Work\Med\Project\Medic\Temp\gradleOut\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kseniya\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\d77f9924fabd6fe0ceb31149d8b608a1\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.1"
+        sha1="dc10c1b1e48196f12f0ebb5103ae4dc156ba9b2e">
+        <dex dex="E:\Work\Med\Project\Medic\Temp\gradleOut\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kseniya\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\d77f9924fabd6fe0ceb31149d8b608a1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.1"
+        sha1="d46bca2836cb936675a51f8d54e3402015d835cb">
+        <dex dex="E:\Work\Med\Project\Medic\Temp\gradleOut\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kseniya\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\d77f9924fabd6fe0ceb31149d8b608a1\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="29.0.1"
+        sha1="31de12dfd4ff409d57dd52142cd5ebe1c1eee803">
+        <dex dex="E:\Work\Med\Project\Medic\Temp\gradleOut\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+
+</items>
